@@ -6,15 +6,15 @@
 I'm a student developer currently working through Angela Yu's [web dev bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) and Wes Bos's Javascript courses. My first forays into the web dev world involved making some really embarassing newsletters via AOL Zine World and customizing my Neopets page when I was just a wee one of 10, and somewhere along the way I kinda forgot how much I loved doing this stuff. Now that my daughter is only a year away from kindergarten, I'm hoping to get a job as a junior web developer. When not up to my elbows in CSS or Play-Doh, I'm tending to my [digital garden](https://maudlinmandrake.github.io/digital-garden/), [reading](https://www.goodreads.com/user/show/63139573-jenny-mikac), or making art in some form or another (currently weaving, collage, and painting on wood panel).
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 395 Contributions in year 2020
  > 
-> 📦 Used 27.2 kB in GitHub's Storage 
+> 📦 Used 27.3 kB in GitHub's Storage 
  > 
-> 🚫 Not opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 15 Public Repositories 
  > 
@@ -23,22 +23,22 @@ I'm a student developer currently working through Angela Yu's [web dev bootcamp]
 **I'm an early 🐤** 
 
 ```text
-🌞 Morning    148 commits    ███████████░░░░░░░░░░░░░░   43.66% 
-🌆 Daytime    173 commits    ████████████░░░░░░░░░░░░░   51.03% 
-🌃 Evening    17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.01% 
+🌞 Morning    151 commits    ██████████░░░░░░░░░░░░░░░   43.39% 
+🌆 Daytime    179 commits    ████████████░░░░░░░░░░░░░   51.44% 
+🌃 Evening    17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.89% 
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 
 ```
-📅 **I'm Most Productive on Fridays** 
+📅 **I'm Most Productive on Tuesdays** 
 
 ```text
-Monday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.31% 
-Tuesday      64 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.88% 
-Wednesday    47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
-Thursday     62 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.29% 
-Friday       68 commits     █████░░░░░░░░░░░░░░░░░░░░   20.06% 
-Saturday     60 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.7% 
-Sunday       20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.9%
+Monday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.17% 
+Tuesday      73 commits     █████░░░░░░░░░░░░░░░░░░░░   20.98% 
+Wednesday    47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
+Thursday     62 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.82% 
+Friday       68 commits     █████░░░░░░░░░░░░░░░░░░░░   19.54% 
+Saturday     60 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
+Sunday       20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.75%
 
 ```
 
