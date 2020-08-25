@@ -6,7 +6,7 @@
 I'm a student developer currently working through Angela Yu's [web dev bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) and Wes Bos's Javascript courses. My first forays into the web dev world involved making some really embarassing newsletters via AOL Zine World and customizing my Neopets page when I was just a wee one of 10, and somewhere along the way I kinda forgot how much I loved doing this stuff. Now that my daughter is only a year away from kindergarten, I'm hoping to get a job as a junior web developer. When not up to my elbows in CSS or Play-Doh, I'm tending to my [internet homestead](https://jennymikac.dev), [reading](https://www.goodreads.com/user/show/63139573-jenny-mikac), and taking care of my [houseplants](https://www.notion.so/codexvitae/Houseplants-3b1370377d9845dc8166373f166224b3).
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -49,21 +49,21 @@ Sunday       50 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-JSX                      59 mins             ███████████░░░░░░░░░░░░░░   44.35% 
-Markdown                 40 mins             ███████░░░░░░░░░░░░░░░░░░   30.23% 
-SCSS                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.82% 
-CSS                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.54% 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
+JSX                      59 mins             █████████████░░░░░░░░░░░░   54.5% 
+Markdown                 34 mins             ███████░░░░░░░░░░░░░░░░░░   30.95% 
+CSS                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38% 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
 
 🔥 Editors: 
-VS Code                  2 hrs 15 mins       █████████████████████████   100.0%
+VS Code                  1 hr 49 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-keeper-app               1 hr 14 mins        █████████████░░░░░░░░░░░░   55.01% 
-digital-garden           1 hr                ███████████░░░░░░░░░░░░░░   44.99%
+keeper-app               1 hr 14 mins        █████████████████░░░░░░░░   67.6% 
+digital-garden           35 mins             ████████░░░░░░░░░░░░░░░░░   32.4%
 
 💻 Operating System: 
-Mac                      2 hrs 15 mins       █████████████████████████   100.0%
+Mac                      1 hr 49 mins        █████████████████████████   100.0%
 
 ```
 
