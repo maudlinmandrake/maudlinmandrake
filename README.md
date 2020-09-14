@@ -10,9 +10,9 @@ I'm a student developer currently working through Angela Yu's [web dev bootcamp]
 
 **🐱 My Github Data** 
 
-> 🏆 709 Contributions in the Year 2020
+> 🏆 718 Contributions in the Year 2020
  > 
-> 📦 26.1 kB Used in Github's Storage 
+> 📦 26.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
