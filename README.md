@@ -49,18 +49,16 @@ Sunday       62 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Indiana/Indianapolis
 
 💬 Programming Languages: 
-CSS                      1 hr 1 min          ███████████████░░░░░░░░░░   63.28% 
-HTML                     35 mins             █████████░░░░░░░░░░░░░░░░   36.1% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-personal-portfolio       1 hr 36 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 36 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
