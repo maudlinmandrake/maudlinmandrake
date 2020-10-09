@@ -20,6 +20,9 @@ I'm a student developer currently working through freeCodeCamp's free curriculum
 [Simon](https://maudlinmandrake.github.io/Simon/) - A Javascript version of Simon. How far do you think you can get?  
 **HTML, CSS, JavaScript**
 
+[Virtual Drum Kit](https://maudlinmandrake.github.io/Drum-Kit/) - Use your mouse or keyboard to play this little drum kit.  
+**HTML, CSS, JavaScript**
+
 [Todo List](https://protected-lake-57073.herokuapp.com/) -  a simple todo list.   
 **HTML, CSS, NodeJS, MongoDB, Heroku deployment**
 
