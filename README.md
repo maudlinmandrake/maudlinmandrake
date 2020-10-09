@@ -20,10 +20,10 @@ I'm a student developer currently working through freeCodeCamp's free curriculum
 [Simon](https://maudlinmandrake.github.io/Simon/) - A Javascript version of Simon. How far do you think you can get?  
 **HTML, CSS, JavaScript**
 
-[Todo List](https://protected-lake-57073.herokuapp.com/) -  a simple todo list. 
+[Todo List](https://protected-lake-57073.herokuapp.com/) -  a simple todo list.   
 **HTML, CSS, NodeJS, MongoDB, Heroku deployment**
 
-[Newsletter Form](https://mysterious-refuge-12628.herokuapp.com/) - a form for signing up to a newsletter using MailChimp's API. You can test it out if you'd like, no worries about spam, as this page exists purely so I could learn the ins and outs of databases and using Node.js. 
+[Newsletter Form](https://mysterious-refuge-12628.herokuapp.com/) - a form for signing up to a newsletter using MailChimp's API. You can test it out if you'd like, no worries about spam, as this page exists purely so I could learn the ins and outs of databases and using Node.js.   
 **HTML, CSS, NodeJS, MongoDB, Heroku deployment**
 
 [Emoji Spellbook](https://codesandbox.io/s/github/maudlinmandrake/emojipedia) - A simple emoji spellbook for the modern, technology-inclined witch. Made while in Angela Yu's web dev bootcamp.  
