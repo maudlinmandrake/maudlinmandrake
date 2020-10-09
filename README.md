@@ -11,10 +11,10 @@ I'm a student developer currently working through freeCodeCamp's free curriculum
 [Akimbo Kats on iOS](https://maudlinmandrake.github.io/landing-page/) - a landing page for an iOS game, created as a part of the freeCodeCamp web design certification. My husband has been trying to establish himself as a game developer, and he was gracious enought to let me "borrow" his game to make this page.  
 **HTML, CSS**
 
-[The Circle City Houseplant Club](https://github.com/maudlinmandrake/survey-form) - a survey form to gauge interest in a houseplant club. Created as a part of the freeCodeCamp curriculum.  
+[The Circle City Houseplant Club](https://maudlinmandrake.github.io/survey-form/) - a survey form to gauge interest in a houseplant club. Created as a part of the freeCodeCamp curriculum.  
 **HTML, CSS**
 
-[Grace Hopper, The Queen of Code](https://github.com/maudlinmandrake/tribute-page) - a tribute page to the women who inspired me to get into tech.  
+[Grace Hopper, The Queen of Code](https://maudlinmandrake.github.io/tribute-page/) - a tribute page to the women who inspired me to get into tech.  
 **HTML, CSS**
 
 [Simon](https://maudlinmandrake.github.io/Simon/) - A Javascript version of Simon. How far do you think you can get?  
