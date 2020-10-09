@@ -17,6 +17,9 @@ I'm a student developer currently working through freeCodeCamp's free curriculum
 [Grace Hopper, The Queen of Code](https://github.com/maudlinmandrake/tribute-page) - a tribute page to the women who inspired me to get into tech.  
 **HTML, CSS**
 
+[Simon](https://maudlinmandrake.github.io/Simon/) - A Javascript version of Simon. How far do you think you can get?  
+**HTML, CSS, JavaScript**
+
 [Todo List](https://protected-lake-57073.herokuapp.com/) -  a simple todo list. 
 **HTML, CSS, NodeJS, MongoDB, Heroku deployment**
 
